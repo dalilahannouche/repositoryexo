@@ -1,6 +1,7 @@
 h1{
 	color:#034482;
 	font-style:weight;
+	text-transform:capitalize;
 }
 li{
 	list-style-type:none;
